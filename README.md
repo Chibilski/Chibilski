@@ -1,5 +1,5 @@
 # 💫 About Me:
-🚛 Focando atualmente em minha Startup<br>🧑‍💻 Estudando na faculdade C e Java<br>⚡ Estudando por conta Java Script, NodeJs e Linux<br>💬 Procuro Orientações e Conselhos na área<br><br><br>
+🚛 Focando atualmente em minha Startup<br>🧑‍💻 Estudando na faculdade Php, JS, TS e Banco de Dados<br>⚡ Estudando por conta: Inicio de QA<br>💬 Procuro Orientações e Conselhos na área de QA<br><br><br>
 
 
 ## 🌐 Socials:
